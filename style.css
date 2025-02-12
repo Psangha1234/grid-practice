@@ -1,0 +1,12 @@
+/* This is just to see the boxes */
+div {
+    border: 1px solid red;
+}
+/* This is where the layout begins
+GRID */
+
+.container {
+display:grid;
+
+
+}
